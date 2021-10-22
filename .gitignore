@@ -1,0 +1,30 @@
+# Build and Release Folders
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+
+# Other files and folders
+.settings/
+yelp-data
+yelp_checkin.csv
+yelp_tip.csv
+yelp_business.csv
+yelp_check.csv
+checkinsbyday.txt
+bigrams.txt
+frequency-computation.txt
+inverted-index.txt
+trigrams.txt
+unigrams.txt
+
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
