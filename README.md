@@ -1,1 +1,2 @@
-# 4415-Assignment02
+# Mapper-Reducer
+This project uses Yelp data and created Mapper and Reducer for that data.
